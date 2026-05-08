@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Botanical diversity rooted in technology" width="100%">
-</p>
-
 # 🌿 Unless Someone Like You
 
 > *"In the word of the Lorax: unless someone like you cares a whole awful lot,
