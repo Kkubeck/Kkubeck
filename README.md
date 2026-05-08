@@ -1,16 +1,53 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Botanical diversity rooted in technology" width="100%">
+</p>
 
-<!--
-**Kkubeck/Kkubeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌿 Unless Someone Like You
 
-Here are some ideas to get you started:
+> *"In the word of the Lorax: unless someone like you cares a whole awful lot,
+> nothing is going to get better. It's not."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Botanical garden horticulturist. Plant propagator. 20+ years of keeping things alive that the world keeps forgetting about.**
+
+I build open tools for plant conservation — because the data shouldn't be harder to access than the plants are to grow.
+
+---
+
+### 🌱 Currently Tending To
+
+**[Propagation Card Reader](https://github.com/Kkubeck/propagation-card-reader)** — Teaching a machine to read 40 years of handwritten propagation cards. 8,200+ cards, decades of institutional knowledge locked on paper. Not anymore.
+
+**Botanical Engram Node** *(coming soon)* — A local-first "visiting scholar" for botanical garden collections. Ask questions, get answers, no cloud dependency. Your collection data stays yours.
+
+---
+
+### 🛠 Conservation Tools
+
+| Project | What It Does |
+|---------|-------------|
+| [CAT Analysis](https://github.com/Kkubeck/CAT_analysis) | Climate vulnerability assessment — BGCI's Climate Action Tool meets real collection data |
+| [BC Seed Conservation Collab](https://github.com/Kkubeck/BC-seed-conservation-collab) | Propagation protocols for British Columbia's native seed plants |
+| [Nursery Manual](https://github.com/Kkubeck/nursery-manual) | SOPs for botanical garden propagation — survival curves, climate widgets, seed inventory |
+| [IrisBG Report Cleaning Tool](https://github.com/Kkubeck/irisbg-report-cleaning-tool) | Data wrangling for IrisBG accession management exports |
+| [Plant Datasets](https://github.com/Kkubeck/plant-datasets) | Open plant datasets for research and analysis |
+
+---
+
+### 🧭 Also Found In
+
+When I'm not propagating plants or wrangling accession data, I'm building tabletop RPGs about portal-jumping through dead civilizations, making polyrhythmic noise with pocket synthesizers, or teaching an AI drone to care about trees.
+
+*Someone has to tend the forest, even after the last Truffula falls.*
+
+---
+
+### 📡 Find Me
+
+🌐 [PLANtsploration](https://kkubeck.github.io) — Quarto site with conservation analyses and garden data stories
+
+---
+
+> *"On this vessel I have the last of Earth's forests. The rest were all
+> destroyed. They're gone. Exposed, unprotected... I can't let them do that
+> to these trees."*
+> — Freeman Lowell, *Silent Running* (1972)
