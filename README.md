@@ -1,7 +1,7 @@
 # 🌿 Unless Someone Like You
 
-> *"In the word of the Lorax: unless someone like you cares a whole awful lot,
-> nothing is going to get better. It's not."*
+> *"Unless someone like you cares a whole awful lot,
+> nothing is going to get better. It's not."
 
 **Botanical garden horticulturist. Plant propagator. 20+ years of keeping things alive that the world keeps forgetting about.**
 
