@@ -13,7 +13,7 @@ I build open tools for plant conservation — because the data shouldn't be hard
 
 **[Propagation Card Reader](https://github.com/Kkubeck/propagation-card-reader)** — Teaching a machine to read 40 years of handwritten propagation cards. 8,200+ cards, decades of institutional knowledge locked on paper. Not anymore.
 
-**Botanical Engram Node** *(coming soon)* — A local-first "visiting scholar" for botanical garden collections. Ask questions, get answers, no cloud dependency. Your collection data stays yours.
+**[Botanical Engram Node 0](https://github.com/Kkubeck/ben0)**  — A local-first "visiting scholar" for botanical garden collections. Ask questions, get answers, no cloud dependency. Your collection data stays yours.
 
 ---
 
