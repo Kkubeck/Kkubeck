@@ -25,7 +25,7 @@ I build open tools for plant conservation — because the data shouldn't be hard
 | [BC Seed Conservation Collab](https://github.com/Kkubeck/BC-seed-conservation-collab) | Propagation protocols for British Columbia's native seed plants |
 | [Nursery Manual](https://github.com/Kkubeck/nursery-manual) | SOPs for botanical garden propagation — survival curves, climate widgets, seed inventory |
 | [IrisBG Report Cleaning Tool](https://github.com/Kkubeck/irisbg-report-cleaning-tool) | Data wrangling for IrisBG accession management exports |
-| [Plant Datasets](https://github.com/Kkubeck/plant-datasets) | Open plant datasets for research and analysis |
+
 
 ---
 
