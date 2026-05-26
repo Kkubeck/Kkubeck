@@ -1,7 +1,7 @@
-# 🌿 Unless Someone Like You
+# 🌿 
 
 > *"Unless someone like you cares a whole awful lot,
-> nothing is going to get better. It's not."
+> nothing is going to get better.It's not."
 
 **Botanical garden horticulturist. Plant propagator. 20+ years of keeping things alive that the world keeps forgetting about.**
 
@@ -33,13 +33,7 @@ I build open tools for plant conservation — because the data shouldn't be hard
 
 When I'm not propagating plants or wrangling accession data, I'm building tabletop RPGs about portal-jumping through dead civilizations, making polyrhythmic noise with pocket synthesizers, or teaching an AI drone to care about trees.
 
-*Someone has to tend the forest, even after the last Truffula falls.*
 
----
-
-### 📡 Find Me
-
-🌐 [PLANtsploration](https://kkubeck.github.io) — Quarto site with conservation analyses and garden data stories
 
 ---
 
